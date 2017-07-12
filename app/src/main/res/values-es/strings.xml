@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Simple Calculator</string>
     <string name="app_launcher_name">Calculadora</string>
     <string name="copied_to_clipboard">Valor copiado en el portapapeles</string>
 

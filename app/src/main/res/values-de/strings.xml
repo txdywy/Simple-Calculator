@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Schlichter Taschenrechner</string>
     <string name="app_launcher_name">Taschenrechner</string>
     <string name="copied_to_clipboard">Wert in Zwischenablage kopiert</string>
 

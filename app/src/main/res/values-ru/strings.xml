@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Simple Calculator</string>
     <string name="app_launcher_name">Калькулятор</string>
     <string name="copied_to_clipboard">Значение скопировано в буфер обмена</string>
 
