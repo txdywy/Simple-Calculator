@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "313465521908",
+    "firebase_url": "https://fastgram-65787.firebaseio.com",
+    "project_id": "fastgram-65787",
+    "storage_bucket": "fastgram-65787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313465521908:android:ebcbd72048e0b0b0",
+        "android_client_info": {
+          "package_name": "com.ylab.fastgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313465521908-la5d3u32lt273hg5bnqp2snrh15g5vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39CgjFkPKujbI0qXSRvdEiBoOw4q4nQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313465521908:android:3912488daa49a3da",
+        "android_client_info": {
+          "package_name": "com.ylab.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313465521908-la5d3u32lt273hg5bnqp2snrh15g5vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39CgjFkPKujbI0qXSRvdEiBoOw4q4nQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313465521908:android:f0752aff5286efc3",
+        "android_client_info": {
+          "package_name": "com.ylab.cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313465521908-la5d3u32lt273hg5bnqp2snrh15g5vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39CgjFkPKujbI0qXSRvdEiBoOw4q4nQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
